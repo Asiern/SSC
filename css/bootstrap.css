@@ -20,17 +20,91 @@
   color: #ffffff;
   font-family: Gotham-Light;
 }
- .navtext{
+ .navtext{   
    text-decoration: none;
    font-family: Gotham-Light;
    color: #ffffff;
    font-size: 14pt;
  }
+ .navtext:hover{
+  color: #F50057;
+  text-decoration: none;
+}
  .bg{
    background-image: url("../img/bg.jpg");
    background-repeat:no-repeat;
    background-size:cover;
    height: 100vh;
+}
+.boton{
+  display: inline-block;
+  font-weight: 400;
+  color: #0D0D0D;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.boton:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.boton:focus, .boton.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(40, 40, 40, 0.25);
+}
+
+.boton.disabled, .boton:disabled {
+  opacity: 0.65;
+}
+
+a.boton.disabled,
+fieldset:disabled a.boton {
+  pointer-events: none;
+}
+
+.boton-primary {
+  color: #F2F2F2;
+  background-color: #F50057;
+  border-color: #F50057;
+}
+
+.boton-primary:hover {
+  color: #F50057;
+  background-color: #F2F2F2;
+  border-color: #FFFFFF;
+}
+
+.boton-primary:focus, .boton-primary.focus {
+  box-shadow: 0 0 0 0.2rem rgba(245, 0, 87, 0.5);
+}
+
+.boton-primary.disabled, .boton-primary:disabled {
+  color: #F2F2F2;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.boton-primary:not(:disabled):not(.disabled):active, .boton-primary:not(:disabled):not(.disabled).active,
+.show > .boton-primary.dropdown-toggle {
+  color: #75002A;
+  background-color: #fff;
+  border-color: #FFF;
+}
+
+.boton-primary:not(:disabled):not(.disabled):active:focus, .boton-primary:not(:disabled):not(.disabled).active:focus,
+.show > .boton-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(117, 0, 42, 0.5);
 }
 :root {
   --blue: #007bff;
