@@ -1,1 +1,13 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 977.85"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#262626;}</style></defs><title>SSCLogoN</title><rect class="cls-1" x="347.4" y="226.78" width="686.45" height="187.24" transform="translate(428.84 -406.01) rotate(45)"/><rect class="cls-2" x="343.2" y="591.34" width="695.72" height="178.08" transform="translate(1660.82 661.33) rotate(135)"/><rect class="cls-2" x="-34.25" y="227.29" width="686.45" height="187.24" transform="translate(317.41 -135.99) rotate(45)"/><rect class="cls-1" x="-38.92" y="591.38" width="695.72" height="178.08" transform="translate(1008.52 931.59) rotate(135)"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+</style>
+<rect x="344.11" y="227.07" transform="matrix(0.7071 0.7071 -0.7071 0.7071 428.0755 -392.0913)" class="st0" width="686.45" height="187.24"/>
+<rect x="343.2" y="591.34" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 1660.8231 672.8375)" class="st1" width="695.72" height="178.08"/>
+<rect x="-34.25" y="227.29" transform="matrix(0.7071 0.7071 -0.7071 0.7071 317.4128 -124.4858)" class="st1" width="686.45" height="187.24"/>
+<rect x="-41.12" y="592.59" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 1005.6208 946.7194)" class="st0" width="695.72" height="178.08"/>
+</svg>
