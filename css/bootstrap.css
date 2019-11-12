@@ -41,13 +41,21 @@
   .T1n{
     color: #262626;
     font-family: Gotham-Medium;
-    text-align: center;
   }
   .T2n{
-  color: #262626;
-  font-family: Gotham-Light;
-  text-align: center;
+    color: #262626;
+    font-family: Gotham-Light;
   }
+  .navtextn{   
+    text-decoration: none;
+    font-family: Gotham-Light;
+    color: #F50057;
+    font-size: 14pt;
+  }
+  .navtextn:hover{
+   color: #75002A;
+   text-decoration: none;
+ }
  .navtext{   
    text-decoration: none;
    font-family: Gotham-Light;
