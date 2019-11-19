@@ -125,12 +125,12 @@ fieldset:disabled a.boton {
 
 .boton-primary {
   color: #F2F2F2;
-  background-color: #F2CB05;
-  border-color: #F2CB05;
+  background-color: #F50057;
+  border-color: #F50057;
 }
 
 .boton-primary:hover {
-  color: #F2CB05;
+  color: #F50057;
   background-color: #F2F2F2;
   border-color: #FFFFFF;
 }
@@ -139,14 +139,14 @@ fieldset:disabled a.boton {
   box-shadow: 0 0 0 0.2rem rgba(245, 0, 87, 0.5);
 }
 .boton-primaryn {
-  color: #F2CB05;
+  color: #F50057;
   background-color: #F2F2F2;
   border-color: #FFFFFF;
 }
 
 .boton-primaryn:hover {
   color: #F2F2F2;
-  background-color: #F2CB05;
+  background-color: #F50057;
   border-color: #F2F2F2;
 }
 
